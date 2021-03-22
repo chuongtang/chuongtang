@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chuongtang
 - 👀 I’m interested in...learning new stuff, one project at a time
-- 🌱 I’m currently learning -- Advance JS, then React is the next in my list
-- 💞️ I’m looking to collaborate on 'not so easy nor too difficult project'
+- 🌱 I’m currently learning -- Advance JS *️⃣ , then React :re is the next in my list
+- 💞️ I’m looking to collaborate on 'not so easy 🍦  nor too difficult 🦈  project'
 - 📫 How to reach me 'somewhere here, ..'
 
 <!---
