@@ -26,6 +26,17 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FChuongTang3)
 
+
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/chuongtang">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuongtang&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+</a>
+
+<a href="https://github.com/chuongtang">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chuongtang&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Chuong Tang's GitHub Stats" />
+</a>
 <!---
 chuongtang/chuongtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
