@@ -34,7 +34,8 @@
 <a href="https://github.com/chuongtang">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chuongtang&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Chuong Tang's GitHub Stats" />
 </a>
-![Visitor Count](https://profile-counter.glitch.me/chuongtang/count.svg)
+
+![Visitor Count](https://gh-pages-counter.glitch.me/chuongtang/count.svg)
 
 <!---
 chuongtang/chuongtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
