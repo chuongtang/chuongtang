@@ -35,12 +35,17 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chuongtang&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Chuong Tang's GitHub Stats" />
 </a>
 
-![Visitor Count](https://gh-pages-counter.glitch.me/chuongtang/count.svg)
+
+
+<table>
+  <tr>
+    <td>:✨You are visitor</td>
+    <td><img src="https://gh-pages-counter.glitch.me/count.svg" alt="Visitor counter" /></td>
+  </tr>
+</table>
 
 <!---
 chuongtang/chuongtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![](https://hit.yhype.me/github/profile?user_id=75117692)
