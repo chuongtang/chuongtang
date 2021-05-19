@@ -9,7 +9,6 @@
 **📖 Never stop learning 📚**
 ---
 
-🧰 Toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
@@ -23,10 +22,7 @@
 
 ---
 
-
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FChuongTang3)
-
-
 
 ## 📈 GitHub Stats
 
@@ -43,4 +39,6 @@
 chuongtang/chuongtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 ![](https://hit.yhype.me/github/profile?user_id=75117692)
