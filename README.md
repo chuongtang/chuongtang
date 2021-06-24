@@ -1,5 +1,5 @@
 ![Chuong Tang's GitHub Banner](GithubBanner.JPG)
-## 👋 Hi there, I am Chuong! A rookie in the Full Stack developer world! 
+## 👋 Hi there, I am Chuong! A Software developer that build Full Stack applications to sovlve business challenges. 
 ### I love travelling 🏖️ and learning new code. 📑
 
 - 👀 I’m interested in...learning new stuff, one project at a time
