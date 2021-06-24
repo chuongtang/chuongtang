@@ -1,9 +1,9 @@
 ![Chuong Tang's GitHub Banner](GithubBanner.JPG)
-## 👋 Hi there, I am Chuong! A Software developer that build Full Stack applications to sovlve business challenges. 
+## 👋 Hi there, I am Chuong! A Software developer that build Full Stack applications 🚀 to solve business challenges 💼. 
 ### I love travelling 🏖️ and learning new code. 📑
 
 - 👀 I’m interested in...learning new stuff, one project at a time
-- 🌱 I’m currently learning -- React :atom:, Redux, TDD (Test-Driven Development) and more...
+- 🌱 I’m currently learning -- React :atom:, Redux, TDD 🃏 (Test-Driven Development) and more...
 - 💞️ I’m looking for collaborating on 'not so easy 🍦  nor too difficult 🦈  project'
 - 📫 How to reach me:    'somewhere here, ..'
 
