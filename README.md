@@ -3,7 +3,7 @@
 ### I love travelling 🏖️ and learning new code. 📑
 
 - 👀 I’m interested in...learning new stuff, one project at a time
-- 🌱 I’m currently learning -- Advance JS *️⃣ , React :atom:, Redux and more...
+- 🌱 I’m currently learning -- React :atom:, Redux, TDD (Test-Driven Development) and more...
 - 💞️ I’m looking for collaborating on 'not so easy 🍦  nor too difficult 🦈  project'
 - 📫 How to reach me:    'somewhere here, ..'
 
