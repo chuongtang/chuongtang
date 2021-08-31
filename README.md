@@ -14,14 +14,15 @@
 -🧰 Toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodeJS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/authO.svg" alt="AuthO Logo" width="50" height="50"/>
 
 ---
 
