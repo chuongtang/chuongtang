@@ -1,17 +1,18 @@
 ![Chuong Tang's GitHub Banner](GithubBanner.JPG)
-## 👋 Hi there, I am Chuong! A developer that build Full Stack applications 🚀 to solve business challenges 💼. 
+
+## 👋 Hi there, I am Chuong! A developer that build Full Stack applications 🚀 to solve business challenges 💼.
+
 ### I love travelling 🏖️ and learning new code. 📑
 
 - 👀 I’m interested in...learning new stuff, one project at a time
-- 🌱 I’m currently learning -- React :atom:, Redux, TDD 🃏 (Test-Driven Development) and more...
-- 💞️ I’m looking for collaborating on 'not so easy 🍦  nor too difficult 🦈  project'
-- 📫 How to reach me:    'somewhere here, ..'
+- 🌱 I’m currently learning -- NEXTjs, TDD 🃏 (Test-Driven Development) and more...
+- 💞️ I’m looking for collaborating on 'not so easy 🍦 nor too difficult 🦈 project'
+- 📫 How to reach me: 'somewhere here, ..'
 
-**📖 Never stop learning 📚**
----
+## **📖 Never stop learning 📚**
 
 -🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap Logo" width="50" height="50"/>
@@ -36,8 +37,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chuongtang&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Chuong Tang's GitHub Stats" />
 </a>
 
-
-
 <table>
   <tr>
     <td>:✨You are visitor</td>
@@ -49,4 +48,3 @@
 chuongtang/chuongtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
