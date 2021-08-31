@@ -20,6 +20,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodeJS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="AuthO Logo" width="50" height="50"/>
