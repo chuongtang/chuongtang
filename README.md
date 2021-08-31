@@ -24,6 +24,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="AuthO Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 
 ---
 
