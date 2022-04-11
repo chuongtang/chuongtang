@@ -11,23 +11,8 @@
 
 ## **📖 Never stop learning 📚**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,js,nodejs,mongodb,gcp,azure,react,redux,bootstrap,netlify,css,git,solidity,stackoverflow,materialui,tailwind,windicss,svg,ts,heroku,workers,tauri,cloudflare&perline=6)](https://skillicons.dev)
 
--🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodeJS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="AuthO Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 
 ---
 
