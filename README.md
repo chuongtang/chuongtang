@@ -11,6 +11,8 @@
 
 ## **📖 Never stop learning 📚**
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 -🧰 Toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind Logo" width="50" height="50"/>
