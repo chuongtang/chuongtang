@@ -11,7 +11,7 @@
 
 ## **📖 Never stop learning 📚**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,js,nodejs,mongodb,gcp,azure,react,redux,bootstrap,netlify,css,git,solidity,stackoverflow,materialui,tailwind,windicss,svg,ts,heroku,workers,tauri,cloudflare&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,js,nodejs,mongodb,gcp,azure,react,redux,netlify,css,git,solidity,stackoverflow,materialui,bootstrap,tailwind,windicss,svg,ts,heroku,tauri,vscode,aws,regex&perline=15)](https://skillicons.dev)
 
 
 ---
